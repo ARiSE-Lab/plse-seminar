@@ -5,13 +5,13 @@
       title: A Talk on AI4SE Research
       abstract: Abstract of a talk on AI4SE Research
       bio: Dr. Toufique Ahmed's present research focuses on enhancing Large Language Models (LLMs) to achieve excellence in Software Engineering. This entails a dual emphasis on elevating performance and ensuring trustworthiness. Broadly speaking, his work resides at the intersection of machine learning and software engineering to harness the power of machine learning to alleviate the burdens faced by software developers, ultimately fostering increased productivity. He received guidance from Prof. Prem Devanbu and his works have been published in the most prestigious Software Engineering venues including ICSE, ESEC/FSE, ASE, TSE, and EMSE.
-      livestream: 
+      livestream: hahaha
       
-- type: Previous Talks
-  members:
-    - speaker: Jacob Laurel (UIUC)
-      date: 1/25/2024
-      title: Automatic Differentiation
-      abstract: 
-      bio: "Jacob Laurel is a final year PhD student in the Department of Computer Science at the University of Illinois at Urbana-Champaign. Jacob's current research focuses on static analysis of programming languages that expose continuous computations, which includes both probabilistic and differentiable programming languages. You can find more information about Jacob at: <a href="https://jsl1994.github.io">https://jsl1994.github.io</a>".
-      recording: 
+# - type: Previous Talks
+#   members:
+#     - speaker: Jacob Laurel (UIUC)
+#       date: 1/25/2024
+#       title: Automatic Differentiation
+#       abstract: 
+#       bio: "Jacob Laurel is a final year PhD student in the Department of Computer Science at the University of Illinois at Urbana-Champaign. Jacob's current research focuses on static analysis of programming languages that expose continuous computations, which includes both probabilistic and differentiable programming languages. You can find more information about Jacob at: <a href="https://jsl1994.github.io">https://jsl1994.github.io</a>".
+#       recording: 
