@@ -3,7 +3,7 @@ layout: default
 meta-description: "Seminar series on Programming Languages and Software Engineering, hosted by Columbia ARiSE Lab."
 ---
 
-# Columbia PLSE Seminar
+<!-- # Columbia PLSE Seminar -->
 
 <!-- **News**: -->
 
