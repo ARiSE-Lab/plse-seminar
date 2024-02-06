@@ -9,7 +9,7 @@ name: Columbia PLSE Seminar Series
 description: Columbia Seminar Series on the Frontier of Programming Languages and Software Engineering
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/logo_arise_cu.png
+avatar: ./images/logo_arise_cu_black.png
 
 #
 # Flags below are optional
