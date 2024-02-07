@@ -55,4 +55,7 @@ Welcome to contact yrbding \[at\] cs.columbia.edu .
 
 <!-- Please uncomment this part if you clone our source code! -->
 -----
-Website template from the [Stanford MLSys Seminar Series](https://mlsys.stanford.edu).
+
+<p style="font-size: small; color: grey">
+Website template from the <a href="https://mlsys.stanford.edu" target="_blank">Stanford MLSys Seminar Series</a>.
+</p>
