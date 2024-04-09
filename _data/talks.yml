@@ -14,7 +14,7 @@
       bio: "Alex is a Ph.D. student advised by Prof. Armando Solar-Lezama, and he has been working on several great projects in the area of AI4Code. You might have heard a few of his papers, such as CRUXEval, StarCoder, StarCoder2, LeanDojo, etc."
       livestream: 
 
-    - speaker: Toufique Ahmed (UCDavis)
+    - speaker: Toufique Ahmed (UC Davis)
       date: 2/8/2024, 3:00 PM - 4:00 PM
       title: Evolution and Prospects of Large Language Models in Software Engineering
       abstract: 'Large Language Models (LLMs) have revolutionized the field of Natural Language Processing (NLP) in recent years. These models are increasingly prominent in software development tasks, including code completion, program repair, code summarization, and incident management. We have witnessed significant changes and the introduction of innovative concepts such as few-shot learning, chain-of-thought, automatic prompt augmentation (ASAP), and multilingual training. In this presentation, I will provide a brief overview of these concepts and how LLMs have evolved in the context of comment generation tasks. I will also explore future possibilities in this area. Additionally, I will delve into the practical applications of LLMs, particularly in critical scenarios like incident management, and gain insights from incident owners regarding their perspectives on this technology.'
