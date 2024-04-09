@@ -1,5 +1,12 @@
 - type: Schedule
   members:
+    - speaker: Changshu Liu (MIT)
+      date: 4/11/2024, 3:00 PM - 4:00 PM
+      title: Can Large Language Models Reason About Code?
+      abstract: 'Large Language Models (LLMs) have been widely used to automate programming tasks. Their capabilities have been evaluated by assessing code quality through test execution. However, as we will show, success in code synthesis does not imply code reasoning, which is essential to trust LLMs with tasks that involve program analysis, e.g., test generation and debugging. Therefore, we proposed  a framework designed to gauge the code reasoning abilities of LLMs through several inductive reasoning tasks. CodeMind currently supports three tasks: Independent Execution Reasoning (IER), Dependent Execution Reasoning (DER), and Specification Reasoning (SR). Our extensive evaluation of ten LLMs across five benchmarks in two different programming languages for two code generation tasks (code synthesis and translation) shows that LLMs, to some degree, can explain the program execution flow, specifically for simple programs and the ones they can correctly generate. However, their performance drops for code with higher complexity, non-trivial logical and arithmetic operators, non-primitive types, and API calls. We observe that, while correlated, code generation abilities do not imply code reasoning: ranking LLMs based on test passing can be very different compared to code reasoning.'
+      bio: "Changshu Liu is a first-year Ph.D student advised by Prof. Reyhaneh Jabbarvand. His is working on the intersection between software engineering and artificial intelligence."
+      livestream: 
+    
     - speaker: Alex Gu (MIT)
       date: 3/28/2024, 3:00 PM - 4:00 PM
       title: AI4Code, Code Modeling
