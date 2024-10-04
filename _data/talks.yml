@@ -1,5 +1,15 @@
 - type: Schedule
   members:
+    - speaker: Ziyang Li (UPenn)
+      date: 10/11/2024, 1:00 PM - 3:00 PM
+      title: Relational Programming with Foundation Models
+      abstract: 'Neurosymbolic programming combines the otherwise complementary worlds of deep learning and symbolic reasoning. It thereby enables more accurate, interpretable, and domain-aware solutions to AI tasks. Scallop is a general-purpose language and compiler toolchain for developing neurosymbolic applications. A Scallop program specifies a suitable decomposition of an AI task’s computation into separate learning and reasoning modules. Learning modules are built using existing machine learning frameworks and range from custom neural models to foundation models for language, vision, and multi-modal data. Reasoning modules are specified in a declarative logic programming language based on Datalog which supports expressive reasoning patterns and probabilistic programming over structured relations. In this talk, we demonstrate relational programming in Scallop with foundation models for applications that span the domains of vision, natural language, and program analysis.'
+      bio: "Ziyang Li is a final year PhD student from the University of Pennsylvania, advised by Prof. Mayur Naik. His primary research fields are programming languages and machine learning. He specifically focuses on Neuro-Symbolic methods, which systematically bridges state-of-the-art machine learning systems and traditional symbolic reasoning programs. He develops Scallop, a language for neuro-symbolic programming. Since its creation, the language has been applied to fields of computer vision (CV), natural language processing (NLP), security and program analysis, planning, medicine, and bio-informatics. His works have been recognized in top conferences such as PLDI, S&P, USENIX Security, NeurIPS, ICLR, and ICML."
+      livestream: 
+    
+
+- type: Previous Talks
+  members:
     - speaker: Changshu Liu (UIUC)
       date: 4/11/2024, 3:00 PM - 4:00 PM
       title: Can Large Language Models Reason About Code?
@@ -21,8 +31,6 @@
       bio: "Dr. Toufique Ahmed is currently a post doc in the University of California, Davis. His current research endeavors are centered around advancing Large Language Models (LLMs) to achieve superior performance in Software Engineering. This pursuit involves a dual focus on enhancing both the performance and trustworthiness of LLMs. Positioned at the nexus of machine learning and software engineering, his work aims to utilize the potential of machine learning to reduce the challenges faced by software developers, thereby boosting their productivity. Under the guidance of Prof. Prem Devanbu, his contributions have been recognized and featured in leading Software Engineering venues, such as ICSE, ESEC/FSE, ASE, TSE, and EMSE. His research is dedicated to forging new pathways that combine the strengths of machine learning and software engineering to facilitate improvements in software development practices. More about Dr. Ahmed can be found at: <a href='https://toufiqueparag.github.io/toufique.github.io' target='_blank'>https://toufiqueparag.github.io/toufique.github.io</a>"
       livestream: 
 
-- type: Previous Talks
-  members:
     - speaker: Jacob Laurel (UIUC)
       date: 1/25/2024
       title: Automatic Differentiation
